@@ -1,3 +1,3 @@
-PyBites 100 Days of Code (Days of 1 - 3) 
+PyBites 100 Days of Code (Days 1 - 3) Self Project 
 
 Tool to mimic a pomodoro timer and also display timestamps
