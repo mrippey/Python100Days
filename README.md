@@ -1,3 +1,3 @@
-# PyBites 100 Days of Code (Days 1 - 3) Self Project 
+# PyBites 100 Days of Code Self Projects/Scripts
 
-Script to mimic a pomodoro timer and also display timestamps
+This repo will only include the projects at the end of the modules, and not any of lecture notes or examples.
