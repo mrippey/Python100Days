@@ -1,0 +1,47 @@
+[2021-05-29 00:49:10.689385] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 00:53:17.364391] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 00:53:31.844279] TRACE: App: Search successful searching: tcahf.org results: 7
+[2021-05-29 00:55:33.684035] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 00:58:26.954337] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 00:58:40.124012] TRACE: App: Search successful searching: tcahf.org results: 7
+[2021-05-29 01:03:52.174733] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:04:10.927835] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:04:35.564392] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:04:38.307037] WARNING: App: Empty
+[2021-05-29 01:08:22.531375] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:08:26.418339] WARNING: App: Empty
+[2021-05-29 01:10:20.258593] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:10:23.145870] WARNING: App: Search field was empty
+[2021-05-29 01:11:07.175672] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:11:09.446945] WARNING: App: Search field was empty
+[2021-05-29 01:11:43.381392] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:11:46.372812] WARNING: App: Search field was empty
+[2021-05-29 01:14:55.373590] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:14:58.126856] WARNING: App: Search field was empty
+[2021-05-29 01:14:58.851237] TRACE: App: Search successful search_term:  results: 2
+[2021-05-29 01:16:56.284997] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:17:01.104628] WARNING: App: Search field was empty
+[2021-05-29 01:18:43.827690] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:18:47.706976] WARNING: App: Search field was empty
+[2021-05-29 01:19:53.136920] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:19:55.933514] WARNING: App: Search field was empty
+[2021-05-29 01:19:59.758588] WARNING: App: Search field was empty
+[2021-05-29 01:20:18.497759] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.497944] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498044] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498134] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498219] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498304] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498387] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498469] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498550] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498647] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498725] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498843] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.498977] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:20:18.499055] TRACE: App: Search successful search_term: officemodel.org results: 7
+[2021-05-29 01:24:09.121672] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:24:26.459884] TRACE: App: Search successful search_term: unohcr.org results: 7
+[2021-05-29 01:28:22.658763] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
+[2021-05-29 01:28:26.989724] WARNING: App: Search field was empty
+[2021-05-29 01:39:31.681135] NOTICE: Startup: Logging initialized, level: 9, mode: lookup-app.log
