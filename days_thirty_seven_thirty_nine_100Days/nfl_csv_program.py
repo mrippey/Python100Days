@@ -20,7 +20,7 @@ def main():
 
     print('Division Appearances: ')
     nfl_csv_research.division_appearances()
-    #print(div_appear)
+   
 
 if __name__ == '__main__':
     main()
