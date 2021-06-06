@@ -1,5 +1,10 @@
 language: python
 python:
-  - "3.9"
+  - 3.9
 script:
-  - python -m unittest day42_jsonanalyze_project
+  - pytest 
+  
+notifications:
+  - rippeymb@gmail.com
+  on_success: never
+  on_failure: always
