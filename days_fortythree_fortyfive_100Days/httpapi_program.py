@@ -1,14 +1,13 @@
 import httpapi
 import sys
 import time 
-import webbrowser
+
 
 def program_menu():
     print()
     print('*' * 10 + " WELCOME TO TALK PYTHON SEARCH TOOL " + '*' * 10)
     print()
     
-
 
 def main():
     while True:
@@ -35,7 +34,7 @@ def main():
         pick_a_result_to_open = int(input('Which search result would you like to learn more about?: '))
         print()
         
-        #https://github.com/Anthlis/My_100_Days_Of_Python/blob/master/43-45-search-api/my-code-D2/TPS_program.py
+      
         
         get_search_result_link = response[int(pick_a_result_to_open)-1]
         print()
@@ -43,8 +42,8 @@ def main():
         
         tpython_url = 'https://talkpython.fm'
         request_url = tpython_url + get_search_result_link.url
-        print(f"\nYour browser will now open: " + request_url)
-        #webbrowser.open(request_url, new=2)
+        print(f"Would you like to open: {request_url}")
+      
         
        
 if __name__ == '__main__':
